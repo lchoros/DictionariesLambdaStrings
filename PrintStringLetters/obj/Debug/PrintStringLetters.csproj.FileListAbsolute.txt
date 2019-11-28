@@ -1,0 +1,7 @@
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\PrintStringLetters\bin\Debug\PrintStringLetters.exe.config
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\PrintStringLetters\bin\Debug\PrintStringLetters.exe
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\PrintStringLetters\bin\Debug\PrintStringLetters.pdb
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\PrintStringLetters\obj\Debug\PrintStringLetters.csprojAssemblyReference.cache
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\PrintStringLetters\obj\Debug\PrintStringLetters.csproj.CoreCompileInputs.cache
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\PrintStringLetters\obj\Debug\PrintStringLetters.exe
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\PrintStringLetters\obj\Debug\PrintStringLetters.pdb

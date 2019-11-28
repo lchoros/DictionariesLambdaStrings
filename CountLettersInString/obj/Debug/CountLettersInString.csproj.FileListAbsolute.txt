@@ -1,0 +1,6 @@
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountLettersInString\bin\Debug\CountLettersInString.exe.config
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountLettersInString\bin\Debug\CountLettersInString.exe
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountLettersInString\bin\Debug\CountLettersInString.pdb
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountLettersInString\obj\Debug\CountLettersInString.csproj.CoreCompileInputs.cache
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountLettersInString\obj\Debug\CountLettersInString.exe
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountLettersInString\obj\Debug\CountLettersInString.pdb

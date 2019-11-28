@@ -1,0 +1,6 @@
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountRealNumbers\obj\Debug\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountRealNumbers\obj\Debug\CountRealNumbers.pdb
