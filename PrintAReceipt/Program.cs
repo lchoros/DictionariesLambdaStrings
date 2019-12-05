@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PrintAReceipt
 {
@@ -21,9 +18,8 @@ namespace PrintAReceipt
             }
 
             Console.WriteLine("|{0}|", new string('-', 22));
-            Console.WriteLine("| Total: {0,13:f2} |", 1000);
+            Console.WriteLine("| Total: {0,13:f2} |", total);
             Console.WriteLine("\\{0}/", new string('-', 22));
-
         }
     }
 }
