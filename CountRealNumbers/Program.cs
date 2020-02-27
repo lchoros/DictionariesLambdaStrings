@@ -10,26 +10,24 @@ namespace CountRealNumbers
     {
         static void Main(string[] args)
         {
-            string str = Console.ReadLine();
-            int[] counts = new int[str.Max() + 1];
-            foreach (char ch in str)
+            double[] numbers = Console.ReadLine().Split(' ').Select(double.Parse).ToArray();
+
+            SortedDictionary<double, int> dictionary = new SortedDictionary<double, int>();
+
+            foreach (var num in numbers)
             {
-                if (ch >= 65 && ch <= 90)
+                if(dictionary.ContainsKey(num))
                 {
-                    counts[ch + 32]++;
+                    dictionary[num]++;
                 }
                 else
                 {
-                    counts[ch]++;
+                    dictionary[num] = 1;
                 }
             }
-
-            for (int i = 0; i < counts.Length; i++)
+            foreach (var pair in dictionary)
             {
-                if (counts[i] > 0)
-                {
-                    Console.WriteLine((char)i + " -> " + counts[i]);
-                }
+                Console.WriteLine("{0} -> {1} times", pair.Key, pair.Value);
             }
         }
     }

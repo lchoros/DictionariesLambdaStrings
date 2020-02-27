@@ -4,3 +4,4 @@ C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountRealNumbers\bin\Deb
 C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountRealNumbers\obj\Debug\CountRealNumbers.csproj.CoreCompileInputs.cache
 C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountRealNumbers\obj\Debug\CountRealNumbers.exe
 C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountRealNumbers\obj\Debug\CountRealNumbers.pdb
+C:\Users\lukasz.choros\source\repos\DictionariesLambdas\CountRealNumbers\obj\Debug\CountRealNumbers.csprojAssemblyReference.cache
