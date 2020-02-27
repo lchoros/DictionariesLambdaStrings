@@ -10,12 +10,14 @@ namespace FoldAndSum
     {
         static void Main(string[] args)
         {
-            // The code provided will print ‘Hello World’ to the console.
-            // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
-
-            // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
+            int[] numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            int k = numbers.Length / 4;
+            List<int> firstRowLeftPart = numbers.Take(k).Reverse().ToList();
+            List<int> firstRowRightPart = numbers.Reverse().Take(k).ToList();
+            List<int> firstRow = firstRowLeftPart.Concat(firstRowRightPart).ToList();
+            List<int> secondRow = numbers.Skip(k).Take(k*2).ToList();
+            List<int> result = firstRow.Select((x, index) => x + secondRow[index]).ToList();
+            Console.WriteLine(string.Join(" ", result));
         }
     }
 }
