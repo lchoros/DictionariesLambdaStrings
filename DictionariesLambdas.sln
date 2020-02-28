@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.902
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{B7CDE156-6B9E-4ED7-9B5E-910BA2D615FB}"
 EndProject
@@ -36,6 +36,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitStringIn20Characters", "FitStringIn20Characters\FitStringIn20Characters.csproj", "{D90D896D-07D9-4CF9-ABA1-A06860F88071}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CensorEmail", "CensorEmail\CensorEmail.csproj", "{F8571D26-96C6-4330-AE4B-82AFCB2B1ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractSentences", "ExtractSentences\ExtractSentences.csproj", "{593088FF-7AF0-4043-B5CD-2E8AF254EAA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinerTask", "MinerTask\MinerTask.csproj", "{0BEE5CE0-D2AA-45E8-80A5-E935B7FE91F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixEmails", "FixEmails\FixEmails.csproj", "{5739C046-AAC4-48AC-8D37-A9FDE842F287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOfCard", "HandsOfCard\HandsOfCard.csproj", "{E3BE3E56-A79C-455E-9556-E8C4B916610C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +119,22 @@ Global
 		{F8571D26-96C6-4330-AE4B-82AFCB2B1ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8571D26-96C6-4330-AE4B-82AFCB2B1ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8571D26-96C6-4330-AE4B-82AFCB2B1ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593088FF-7AF0-4043-B5CD-2E8AF254EAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593088FF-7AF0-4043-B5CD-2E8AF254EAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593088FF-7AF0-4043-B5CD-2E8AF254EAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593088FF-7AF0-4043-B5CD-2E8AF254EAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BEE5CE0-D2AA-45E8-80A5-E935B7FE91F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEE5CE0-D2AA-45E8-80A5-E935B7FE91F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEE5CE0-D2AA-45E8-80A5-E935B7FE91F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEE5CE0-D2AA-45E8-80A5-E935B7FE91F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5739C046-AAC4-48AC-8D37-A9FDE842F287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5739C046-AAC4-48AC-8D37-A9FDE842F287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5739C046-AAC4-48AC-8D37-A9FDE842F287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5739C046-AAC4-48AC-8D37-A9FDE842F287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BE3E56-A79C-455E-9556-E8C4B916610C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BE3E56-A79C-455E-9556-E8C4B916610C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BE3E56-A79C-455E-9556-E8C4B916610C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BE3E56-A79C-455E-9556-E8C4B916610C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
