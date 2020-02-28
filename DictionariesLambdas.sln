@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29123.88
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{B7CDE156-6B9E-4ED7-9B5E-910BA2D615FB}"
 EndProject
@@ -44,6 +44,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixEmails", "FixEmails\FixEmails.csproj", "{5739C046-AAC4-48AC-8D37-A9FDE842F287}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOfCard", "HandsOfCard\HandsOfCard.csproj", "{E3BE3E56-A79C-455E-9556-E8C4B916610C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLogs", "UserLogs\UserLogs.csproj", "{4C27AD36-1D95-49DF-9F38-4B1D5769D176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulationCounter", "PopulationCounter\PopulationCounter.csproj", "{D4C5BAFA-F170-4CA7-84D9-4F7BDB79CA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsAggregator", "LogsAggregator\LogsAggregator.csproj", "{C953E25E-0103-40B4-9D50-5CAEF10EAA52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +141,18 @@ Global
 		{E3BE3E56-A79C-455E-9556-E8C4B916610C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3BE3E56-A79C-455E-9556-E8C4B916610C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3BE3E56-A79C-455E-9556-E8C4B916610C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C27AD36-1D95-49DF-9F38-4B1D5769D176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C27AD36-1D95-49DF-9F38-4B1D5769D176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C27AD36-1D95-49DF-9F38-4B1D5769D176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C27AD36-1D95-49DF-9F38-4B1D5769D176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C5BAFA-F170-4CA7-84D9-4F7BDB79CA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C5BAFA-F170-4CA7-84D9-4F7BDB79CA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C5BAFA-F170-4CA7-84D9-4F7BDB79CA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C5BAFA-F170-4CA7-84D9-4F7BDB79CA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C953E25E-0103-40B4-9D50-5CAEF10EAA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C953E25E-0103-40B4-9D50-5CAEF10EAA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C953E25E-0103-40B4-9D50-5CAEF10EAA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C953E25E-0103-40B4-9D50-5CAEF10EAA52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

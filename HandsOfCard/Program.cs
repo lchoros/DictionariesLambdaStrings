@@ -37,15 +37,14 @@ namespace HandsOfCard
             {
                 string[] tokens = command.Split(':').ToArray();
                 string name = tokens[0].Trim();
-                List<string> cards = tokens[1].Split(new[] { ',', ' '}, StringSplitOptions.RemoveEmptyEntries).ToList();
+                List<string> cards = tokens[1].Split(new[] { ',', ' '}, StringSplitOptions.RemoveEmptyEntries).Distinct().ToList();
                 if (!results.ContainsKey(name))
                 {
                     results.Add(name, 0);
                 }
                 foreach (var card in cards)
                 {
-                    //var x = cardMapping[card[0].ToString()];
-                    results[name] += (cardMapping[card[0].ToString()] * colorMapping[card[1]]);
+                    results[name] += (cardMapping[card.Substring(0, card.Length-1)] * colorMapping[card[card.Length-1]]);
                 }
                 command = Console.ReadLine();
             }
