@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulationCounter", "Popula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsAggregator", "LogsAggregator\LogsAggregator.csproj", "{C953E25E-0103-40B4-9D50-5CAEF10EAA52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegendaryFarming", "LegendaryFarming\LegendaryFarming.csproj", "{4A83DFC1-C3FF-4B4A-AC20-2B636D7D7697}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{C953E25E-0103-40B4-9D50-5CAEF10EAA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C953E25E-0103-40B4-9D50-5CAEF10EAA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C953E25E-0103-40B4-9D50-5CAEF10EAA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A83DFC1-C3FF-4B4A-AC20-2B636D7D7697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A83DFC1-C3FF-4B4A-AC20-2B636D7D7697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A83DFC1-C3FF-4B4A-AC20-2B636D7D7697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A83DFC1-C3FF-4B4A-AC20-2B636D7D7697}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
